@@ -3,7 +3,7 @@ Francisco, Karina. "A Universidade do Futuro: o mundo e as demandas estão mudan
 
 ## 1. Fichamento de Conteúdo
 
-Este artigo discute os desafios e oportunidades enfrentados pelas universidades na era da Quarta Revolução Industrial. Ele destaca a necessidade de as universidades adaptarem seus papéis de ensino, pesquisa e extensão para permanecerem relevantes em meio a tecnologias em rápida evolução e demandas sociais.
+O artigo discute os desafios e oportunidades enfrentados pelas universidades na era da Quarta Revolução Industrial e as transformações necessárias que as universidades precisam enfrentar para se manterem relevantes. Ele enfatiza que, com o rápido avanço das tecnologias, as instituições de ensino superior devem modernizar suas abordagens de ensino, pesquisa e extensão. Um dos principais desafios apontados é a adaptação curricular para integrar novas áreas do conhecimento, como inteligência artificial, além de promover uma maior interdisciplinaridade. Além disso, o artigo aborda como a burocratização e a falta de flexibilidade nas universidades brasileiras, especialmente nas públicas, dificulta a inovação e provoca a saída de talentos para o setor privado, que oferece melhores oportunidades. O texto também explora como a universidade deve se reinventar para acompanhar o ritmo acelerado da produção de conhecimento, preparando os estudantes para um cenário em constante mudança.
 ## 2. Fichamento Bibliográfico
 
 * Quarta Revolução Industrial define a integração de tecnologias avançadas, como IA e robótica, no desenvolvimento do conhecimento científico (p.2).
