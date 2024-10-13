@@ -7,7 +7,7 @@ O artigo discute os desafios e oportunidades enfrentados pelas universidades na 
 ## 2. Fichamento Bibliográfico
 
 * Quarta Revolução Industrial define a integração de tecnologias avançadas, como IA e robótica, no desenvolvimento do conhecimento científico (p.2).
-* Segundo o autor, Ensino, pesquisa e extensão são fundamentais para a universidade, e deve ser adaptado às novas realidades (p.3).
+* Segundo o autor, ensino, pesquisa e extensão são fundamentais para a universidade, e deve ser adaptado às novas realidades (p.3).
 * Os futuros profissionais devem ter Interdisciplinidade (p.5).
 * As mudanças tecnologicas são atrasadas pelas burocracias (p.6).
 * Há um aumento na fuga de talentos para o setor privado pelas melhoras condições de trabalho (p.7).
